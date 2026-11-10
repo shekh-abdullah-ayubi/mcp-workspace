@@ -1,0 +1,4 @@
+order_id,user_id,item,status,amount
+99,Vijay,Wireless Headphones,delivered,150
+100,Vijay,Mechanical Keyboard,shipped,120
+101,Siddharth,USB-C Monitor,processing,320
